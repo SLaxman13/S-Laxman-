@@ -1,1 +1,9 @@
-.
+def smiley_face():
+    print("   *****   ")
+    print("  *     *  ")
+    print(" *  O O  * ")
+    print("*    ^    *")
+    print(" * \\___/ * ")
+    print("  *     *  ")
+    print("   *****   ")
+smiley_face()
